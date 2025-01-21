@@ -25,9 +25,10 @@ body {
 }
 
 .Titre {
+    font-size: large;
 
 }
 
-.Sous-Titre {
-
+.Sous-Titre { 
+    font-size: medium;
 }
