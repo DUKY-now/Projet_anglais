@@ -23,3 +23,12 @@
 body {
     background-color: grey;
 }
+
+.Titre {
+    font-size: large;
+    text-underline-position: below;
+}
+
+.Sous-Titre { 
+    font-size: medium;
+}
